@@ -1088,11 +1088,11 @@
 
 
 		.first {
-			-webkit-animation: bannermove 100s linear infinite;
-			   -moz-animation: bannermove 100s linear infinite;
-			    -ms-animation: bannermove 100s linear infinite;
-			     -o-animation: bannermove 100s linear infinite;
-			        animation: bannermove 100s linear infinite;
+			-webkit-animation: bannermove 10s linear infinite;
+			   -moz-animation: bannermove 10s linear infinite;
+			    -ms-animation: bannermove 10s linear infinite;
+			     -o-animation: bannermove 10s linear infinite;
+			        animation: bannermove 10s linear infinite;
 		}
 
 		@keyframes "bannermove" {
