@@ -1177,3 +1177,8 @@
 			margin: 50px auto;
 			background: white;
 		}
+		.image.chill img{
+			width:180px;
+			height: 200px;
+			display:block;
+		}
